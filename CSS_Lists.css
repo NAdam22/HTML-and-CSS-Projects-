@@ -1,0 +1,15 @@
+/* CSS_Lists.css */
+
+/* Style for unordered list */
+ul {
+  list-style-type: square;  /* Options: disc, circle, square, none */
+  color: darkblue;          /* Just to make it stand out */
+  font-size: 18px;
+}
+
+/* Style for ordered list */
+ol {
+  list-style-type: upper-roman;  /* Options: decimal, upper-roman, lower-alpha, etc. */
+  color: darkgreen;
+  font-size: 18px;
+}
