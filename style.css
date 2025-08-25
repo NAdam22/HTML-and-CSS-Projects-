@@ -1,0 +1,21 @@
+/* Add shadow behind text */
+.shadow-text {
+    font-size: 2em;
+    color: darkblue;
+    text-shadow: 2px 2px 5px gray;
+    text-align: center;
+}
+
+/* Style unordered list */
+ul {
+    list-style-type: square;
+    color: green;
+    font-size: 18px;
+}
+
+/* Style ordered list */
+ol {
+    list-style-type: upper-latin;
+    color: maroon;
+    font-size: 18px;
+}
